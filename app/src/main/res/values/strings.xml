@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">IoTProject</string>
+    <string name="server">Server</string>
+    <string name="port">Port</string>
+    <string name="clientID">Client ID</string>
+    <string name="serverURIHint">example.example.com</string>
+    <string name="portHint">1883</string>
+    <string name="sub">Topic</string>
+
+
+</resources>
